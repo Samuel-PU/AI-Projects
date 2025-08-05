@@ -1,5 +1,3 @@
-torch>=2.1
-transformers>=4.42.0
 scikit-learn
 newspaper3k
 requests
