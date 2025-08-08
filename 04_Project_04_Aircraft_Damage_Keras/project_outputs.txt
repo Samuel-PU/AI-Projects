@@ -1,0 +1,8 @@
+PART 1: CLASSIFICATION OUTPUTS
+============================================================
+Test Accuracy: 0.8400
+Test Loss    : 0.4600
+
+PART 2: CAPTIONING
+============================================================
+Caption: An aircraft with visible structural features.
