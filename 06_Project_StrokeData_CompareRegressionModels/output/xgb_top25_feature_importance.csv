@@ -1,0 +1,20 @@
+feature,gain
+hypertension,8029.62158203125
+heart_disease,6386.39501953125
+age,5531.65576171875
+bmi,5083.33740234375
+ever_married_No,4822.9931640625
+gender_Male,4692.24267578125
+smoking_status_formerly smoked,4540.83447265625
+work_type_Private,4470.24072265625
+Residence_type_Urban,4245.23828125
+smoking_status_Unknown,4236.07177734375
+smoking_status_never smoked,4054.7666015625
+smoking_status_smokes,4026.9775390625
+gender_Female,3930.805419921875
+ever_married_Yes,3928.757568359375
+work_type_Self-employed,3904.488037109375
+Residence_type_Rural,3652.89013671875
+work_type_Govt_job,3645.45166015625
+work_type_children,1976.1856689453125
+work_type_Never_worked,1260.33642578125
