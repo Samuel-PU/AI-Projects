@@ -1,0 +1,14 @@
+{
+  "n_total": 1521,
+  "splits": {
+    "train": 1065,
+    "val": 228,
+    "test": 228
+  },
+  "win": 30,
+  "horizon": 1,
+  "source": "data/processed/series_long.csv",
+  "ticker": "AAPL",
+  "date_min": "1984-09-07",
+  "date_max": "1990-07-06"
+}
