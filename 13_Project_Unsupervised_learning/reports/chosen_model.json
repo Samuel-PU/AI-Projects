@@ -1,0 +1,15 @@
+{
+  "best_variant": "kmeans_k3",
+  "silhouette": 0.2245956163335386,
+  "db": 1.5511059233018043,
+  "ch": 1024.6698314335413,
+  "stability_ari": 0.9704352396957721,
+  "n_rows": 5000,
+  "n_features_after_pca": 44,
+  "k_values_tried": [
+    3,
+    4,
+    5,
+    6
+  ]
+}
