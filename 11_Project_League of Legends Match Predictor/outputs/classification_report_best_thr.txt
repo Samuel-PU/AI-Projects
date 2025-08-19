@@ -1,0 +1,17 @@
+AUC: 0.585434
+Best threshold (Youden J): 0.542370
+
+Confusion Matrix @ best_thr:
+[[91  7]
+ [79 23]]
+
+Classification Report @ best_thr:
+              precision    recall  f1-score   support
+
+         0.0     0.5353    0.9286    0.6791        98
+         1.0     0.7667    0.2255    0.3485       102
+
+    accuracy                         0.5700       200
+   macro avg     0.6510    0.5770    0.5138       200
+weighted avg     0.6533    0.5700    0.5105       200
+
